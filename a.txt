@@ -1,0 +1,3 @@
+Human,22,omnivore,2,Rochelle
+Human,21,omnivore,2,Audrey
+Human,23,omnivore,2,Ksenija
